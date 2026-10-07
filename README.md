@@ -2,7 +2,7 @@
 
 An automated Python script built with **Selenium WebDriver** to automate the shopping workflow on Amazon India, including user authentication, product search, cart management, and checkout redirection.
 
-## 🚀 Features
+##  Features
 
 - **Automated Login:** Signs into an Amazon India account securely.
 - **Product Search:** Searches for a specified item ("OnePlus Nord Buds" by default) using dynamic locators.
@@ -12,7 +12,7 @@ An automated Python script built with **Selenium WebDriver** to automate the sho
 
 ---
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 Make sure you have the following installed on your machine:
 - **Python** (v3.8 or higher)
