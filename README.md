@@ -257,7 +257,7 @@ driver.quit()
   <img width="1917" height="613" alt="image" src="https://github.com/user-attachments/assets/9d96e0a5-2742-4bc6-9e6a-39f7e2b858f0" />
 
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates the practical application of **Selenium WebDriver** for end-to-end browser automation and web scraping. By automating user authentication, dynamic element location, cart management, and checkout navigation, it highlights key test automation principles such as explicit waits and robust error handling. 
 
