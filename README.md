@@ -261,7 +261,5 @@ driver.quit()
 
 This project demonstrates the practical application of **Selenium WebDriver** for end-to-end browser automation and web scraping. By automating user authentication, dynamic element location, cart management, and checkout navigation, it highlights key test automation principles such as explicit waits and robust error handling. 
 
-Feel free to fork this repository, submit pull requests, or adapt the script for your own automated testing workflows!
-
 
 
